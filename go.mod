@@ -1,6 +1,6 @@
 module github.com/charmbracelet/crush
 
-go 1.24.3
+go 1.24.5
 
 require (
 	github.com/JohannesKaufmann/html-to-markdown v1.6.0
@@ -36,7 +36,7 @@ require (
 	github.com/pressly/goose/v3 v3.24.2
 	github.com/qjebbs/go-jsons v0.0.0-20221222033332-a534c5fc1c4c
 	github.com/sabhiram/go-gitignore v0.0.0-20210923224102-525f6e181f06
-	github.com/sahilm/fuzzy v0.1.1
+	github.com/sahilm/fuzzy v0.1.3
 	github.com/spf13/cobra v1.9.1
 	github.com/srwiley/oksvg v0.0.0-20221011165216-be6e8873101c
 	github.com/srwiley/rasterx v0.0.0-20220730225603-2ab79fcdd4ef
